@@ -27,3 +27,4 @@ class SpecialDatesWeight:
         else:
             return 1
 #yorum
+print("asdasd")
